@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "minimal-block - A minimalistic responsive Jekyll theme"
+title:  "minimal-block - A minimalistic responsive Jekyll theme a little bit confuse"
 date:   2015-01-03 00:00:00
 categories: [jekyll, themes]
 tags: omg,shit
 shortUrl: http://goo.gl/JhfZT9
 ---
-This theme stared out being a fork from the [Block-log](https://github.com/anandubajith/block-log). It still keeps many similarities. Minimal-block is a minimalistic, responsive and friendly Jekyllrb theme. It has almost no javascript (except for disquss), static social share buttons, rss, paginator, clean and simple permalinks and RSS.
+This theme stared siuuuuuuuuuuuout being a fork from the [Block-log](https://github.com/anandubajith/block-log). It still keeps many similarities. Minimal-block is a minimalistic, responsive and friendly Jekyllrb theme. It has almost no javascript (except for disquss), static social share buttons, rss, paginator, clean and simple permalinks and RSS.
 
 
 [Live Demo](http://drvy.github.io/minimal-block/)

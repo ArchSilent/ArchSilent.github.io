@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "minimal-block - A minimalistic responsive Jekyll theme a little bit confuse"
+title:  "I'm really confuse"
 date:   2015-01-03 00:00:00
 categories: [jekyll, themes]
 tags: omg,shit

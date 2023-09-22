@@ -1,11 +1,11 @@
 #------------------------------------------------------------------------------
 # General
 #------------------------------------------------------------------------------
-name: "Minimal-Block"
-description: "Minimalistic, friendly, responsive."
+name: "ArchSilent"
+description: "Blog de prueba"
 language: "en"
 
-url: http://localhost:4000
+url: 
 baseurl: ''
 
 #------------------------------------------------------------------------------

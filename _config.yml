@@ -32,9 +32,9 @@ permalink: /:title
 disqus-id: yourusername
 
 enable-share: true
-twitter: yourusername
-github: yourusername
-google: +yourusername
+twitter: manofsilencio
+github: Archsilent
+google: nothing
 
 rss-feed-limit: 10
 rss-show-full: false

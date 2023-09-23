@@ -17,6 +17,8 @@ here's some music to confuse you even more.
 
 ![minimal-block preview](https://raw.githubusercontent.com/drvy/minimal-block/master/preview.png)
 
+![prrueba](https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/760ae764298fe0f06f12263d7ce89d4c.jpe)
+
 Setting up
 ----------------
 To start you own blog, simply git clone the repository on github.

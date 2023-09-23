@@ -6,14 +6,13 @@ categories: [jekyll, themes]
 tags: omg,shit
 shortUrl: 
 ---
-This theme stared siuuuuuuuuuuuout being a fork from the [Block-log](https://github.com/anandubajith/block-log). It still keeps many similarities. Minimal-block is a minimalistic, responsive and friendly Jekyllrb theme. It has almost no javascript (except for disquss), static social share buttons, rss, paginator, clean and simple permalinks and RSS.
+Sometimes when we feel confused, we don't know what to do or where to go.
 
+When I feel confused I turn to music.
 
-[Live Demo](http://drvy.github.io/minimal-block/)
+here's some music to confuse you even more.
 
-[Download](https://github.com/drvy/minimal-block/archive/master.zip)
-
-[Github Repository](https://github.com/drvy/minimal-block)
+[A song](https://www.youtube.com/watch?v=9SRjT5NuErU&t=144s)
 
 
 ![minimal-block preview](https://raw.githubusercontent.com/drvy/minimal-block/master/preview.png)

@@ -2,7 +2,7 @@
 layout: post
 title:  "I'm really confuse"
 date:   2015-01-03 00:00:00
-categories: [jekyll, themes]
+categories: [jekyll, theme]
 tags: omg,shit
 shortUrl: 
 ---

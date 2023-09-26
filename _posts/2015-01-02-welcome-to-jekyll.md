@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to idk!"
+title:  "Welcome to Archlinux!"
 date:   2015-01-02 13:37:00
 categories: steamos
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Archlinux!"
-date:   2015-01-02 13:37:00
+date:   2023-09-29
 categories: steamos
 ---
 

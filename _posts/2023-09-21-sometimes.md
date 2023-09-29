@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "I'm tired"
-date:   2015-01-03 00:00:00
+title:  "Sometimes i'm tired"
+date:   2023-09-21
 categories: [Anime, songs]
 tags: omg,shit
 shortUrl: 
@@ -34,4 +34,4 @@ Play any game of Fromsoftware.
 
 What ru doing here
 ----------------
-
+syuu

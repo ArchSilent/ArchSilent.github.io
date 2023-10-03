@@ -16,6 +16,3 @@ Play any game of Fromsoftware.
 
 
 
-What ru doing here
-----------------
-syuu
